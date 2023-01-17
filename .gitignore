@@ -1,0 +1,11 @@
+venv
+music/split/*
+music/upload/*
+music/merged/*
+pretrained_models
+output.mp3
+vocals.wav
+__pycache__
+frontend/node_modules
+frontend/node_modules/*
+.idea/*
